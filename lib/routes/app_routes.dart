@@ -28,6 +28,7 @@ class AppRoutes {
   static const newWelcomeScreen = '/newWelcomeScreen';
   static const themeScreen = '/themeScreen';
   static const userAccountScreen = '/userAccountScreen';
+  static const newNotificationsScreen = '/newNotificationsScreen';
   static const aboutApp = "/aboutApp";
   static const contributeScreen = "/contributeScreen";
 }

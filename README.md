@@ -96,11 +96,4 @@ Distributed under the [GNU General Public License](https://opensource.org/licens
 
 ## 💪 Thanks To All Contributors
 
-Thanks a lot for spending your time helping Resonate grow. Keep rocking 🥂
-
-<a href="https://github.com/AOSSIE-Org/Resonate/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=AOSSIE-Org/Resonate" alt="Contributors"/>
-</a>
-<br>
- 
 
